@@ -1,0 +1,1144 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202109 will be lost/reset.
+# Last config file used to build this data file was /home/kii8r/kii-portfolio.com/awstats/awstats.kii-portfolio.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2025                
+POS_TIME 2693                
+POS_VISITOR 23387               
+POS_DAY 36225               
+POS_DOMAIN 3548                
+POS_LOGIN 4233                
+POS_ROBOT 4388                
+POS_WORMS 5334                
+POS_EMAILSENDER 5465                
+POS_EMAILRECEIVER 5608                
+POS_SESSION 37032               
+POS_SIDER 37212               
+POS_FILETYPES 5743                
+POS_DOWNLOADS 6052                
+POS_OS 6100                
+POS_BROWSER 6459                
+POS_SCREENSIZE 8409                
+POS_UNKNOWNREFERER 8483                
+POS_UNKNOWNREFERERBROWSER 8849                
+POS_ORIGIN 9170                
+POS_SEREFERRALS 9308                
+POS_PAGEREFS 9491                
+POS_SEARCHWORDS 9667                
+POS_KEYWORDS 9819                
+POS_MISC 2356                
+POS_ERRORS 9878                
+POS_CLUSTER 4089                
+POS_SIDER_404 10032               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20211001010058 177 41526 17133643576217
+FirstTime 0
+LastTime 20210930225451
+LastUpdate 20211001020002 27 0 26 0 0
+TotalVisits 332                 
+TotalUnique 274                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 360                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 85 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 33 186 3435163 80 89 303010
+1 24 36 1439560 111 119 471143
+2 21 56 1194617 114 204 1101182
+3 22 22 912541 217 248 1245922
+4 13 32 1128073 74 82 194310
+5 13 13 679160 70 72 282634
+6 25 119 1742551 118 175 1282644
+7 21 22 980698 86 96 237505
+8 22 48 1068784 92 117 324244
+9 7 7 245139 85 151 898477
+10 11 12 561519 119 182 691932
+11 12 14 472617 115 166 3475200
+12 21 94 2540908 120 176 3459699
+13 9 9 259663 88 94 177052
+14 16 17 443581 105 118 327286
+15 17 56 1198446 99 116 588001
+16 13 13 369972 104 135 703363
+17 17 19 929967 144 161 830970
+18 12 16 342162 97 218 2656833
+19 6 27 243002 84 148 927629
+20 15 15 337764 87 101 496010
+21 176 484 86431549 261 360 574195
+22 19 21 431281 98 113 443081
+23 5 5 150704 58 60 290274
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 33
+us 169 366 5120885
+jp 102 627 90523392
+sg 78 78 2547656
+fr 43 43 2071853
+cn 16 37 1049714
+ru 15 15 155861
+de 15 16 360536
+se 14 14 343131
+ch 14 14 883407
+ca 13 13 839347
+bd 2 2 68413
+hn 1 1 0
+ro 2 4 35954
+in 1 1 13861
+dk 2 2 135133
+kh 2 2 11056
+hk 1 1 0
+ie 2 2 135392
+al 1 1 38314
+cz 5 5 271385
+mk 2 2 68430
+fi 2 2 136683
+lt 6 6 404276
+hr 2 2 135923
+be 4 51 623876
+gb 6 6 55444
+at 4 4 203690
+eu 4 4 272787
+ee 10 10 679529
+hu 4 4 272830
+za 1 1 13861
+pl 1 1 324
+nl 6 6 66478
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 21
+wordpress 885 887104 20210930225909 0
+bingbot/ 357 2294366 20210930145644 50
+Googlebot/ 236 1925853 20210930032018 9
+spider 69 612943 20210903023806 1
+panscient 66 681527 20210903192544 2
+dataprovider\.com 64 1754661 20210910183746 1
+Applebot/ 52 729427 20210908062303 1
+bingpreview 39 4588512 20210930115144 0
+AhrefsBot/ 33 207547 20210928033644 18
+unknown 16 1998 20210930194136 16
+(firefox/)([0-9]\.|[0-1][0]\.) 1 67385 20210922005300 0
+no_user_agent 4 303817 20210925023330 0
+MSIE[\x20]6 5 12822 20210930225909 0
+robot 1 13859 20210904031240 0
+custo 7 471643 20210928105941 0
+python 4 131514 20210924174333 1
+Apache\-HttpClient/ 3 26982 20210924170100 0
+discover 1 13862 20210929003048 0
+bot[\s_+:,\.\;\/\\-] 5 95232 20210920040312 1
+^mozilla\/5\.0$ 1 13862 20210911131631 0
+netcraft 1 67315 20210908043531 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+eot 1 191420 0 0
+css 191 1739025 0 0
+png 52 397517 0 0
+wpress 1 78706064 0 0
+woff 1 3922 0 0
+woff2 21 1729360 0 0
+php 72 1557757 0 0
+html 389 13643788 0 0
+xml 65 62376 0 0
+jpg 18 3187986 0 0
+js 516 6150070 0 0
+svg 5 106139 0 0
+gif 11 63997 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 21
+androidpie 6 2
+winxp 24 7
+androidnougat 6 1
+macosx11 1 1
+ios_iphone 1 0
+androidlollipop 3 3
+win8 13 3
+macosx9 12 3
+macosx13 10 10
+androidoreo 6 1
+macosx15 627 103
+winnt 1 1
+macosx14 4 4
+linuxubuntu 5 3
+linux 231 104
+win7 55 36
+android10 13 6
+Unknown 9 9
+win8.1 34 13
+win10 281 239
+macosx8 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 90
+firefox57.0 1 1
+firefox66.0 5 5
+safari7.0.3 9 0
+chrome88.0.4240.193 79 79
+chrome84.0.4147.125 16 16
+chrome5.0.375.99 5 5
+chrome91.0.4472.101 1 1
+chrome92.0.4515.131 1 1
+chrome81.0.4044.129 4 4
+chrome74.0.3729.157 3 3
+msie11 3 1
+chrome73.0.2664.88 1 1
+chrome23.0.1271.95 6 0
+chrome58.0.3029.110 1 1
+chrome83.0.4103.97 108 74
+chrome42.0.2311.90 1 1
+chrome86.0.4472.114 3 1
+chrome89.0.4389.114 2 2
+chrome75.0.3770.80 1 1
+chrome70.0.3538.80 1 0
+opera54.0.2952.51 4 4
+chrome91.0.4472.114 23 15
+chrome66.0.3359.181 35 35
+chrome50.0.2661.75 5 5
+chrome49.0.2623.112 2 2
+chrome65.0.3325.181 2 2
+firefox50.0 5 0
+edge17 4 4
+opera12.16 10 0
+firefox48.0 1 1
+firefox40.0 1 1
+chrome37.0.2049.0 8 0
+firefox55.0 1 1
+chrome90.0.4472.114 1 0
+firefox77.0 3 3
+chrome78.0.3904.62 2 2
+chrome68.0.3440.106 8 8
+chrome60.0.3112.107 1 1
+chrome87.0.4472.114 6 2
+chrome88.0.4472.114 7 4
+chrome89.0.4472.114 2 0
+firefox78.0 1 1
+chrome93.0.4577.63 510 87
+firefox68.0 4 4
+firefox33.0 1 1
+mozilla 53 0
+chrome68.0.3440.84 12 12
+chrome35.0.1916.47 3 3
+chrome84.0.4147.105 46 4
+chrome41.0.2228.0 7 0
+chrome40.0.2214.93 1 1
+chrome73.0.3683.90 2 2
+safari11.1.2 1 1
+firefox36.0 11 0
+chrome67.0.3396.87 2 2
+chrome83.0.4089.0 1 1
+chrome68.0.3440.75 4 4
+chrome67.0.3396.79 10 10
+opera12.0 11 0
+iphone 1 0
+chrome80.0.3987.106 1 1
+chrome26.0.1410.65 1 1
+chrome47.0.2526.111 2 1
+chrome83.0.4103.61 4 4
+chrome74.0.3729.169 13 12
+Unknown 8 8
+chrome79.0.3945.0 44 5
+firefox82.0 5 3
+chrome83.0.4098.0 1 1
+firefox84.0 5 5
+chrome91.0.4472.77 2 2
+opera53.0.2907.99 2 2
+chrome76.0.3809.100 2 2
+chrome78.0.3904.108 26 26
+firefox58.0 9 8
+chrome27.0.1500.55 1 1
+chrome80.0.3987.149 2 2
+firefox67.0 1 1
+opera54.0.2952.54 4 4
+chrome83.0.4102.0 2 2
+chrome45.0.2454.94 1 1
+chrome67.0.3396.99 14 14
+chrome89.0.4389.82 1 1
+chrome71.0.3563.0 1 1
+chrome92.0.4515.159 113 13
+msie10.0 6 0
+opera54.0.2952.64 4 4
+firefox51.0 1 1
+chrome79.0 2 2
+chrome67.0.3396.62 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210925112254
+Mozilla/5.0_Firefox/33.0 20210909101926
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20210909092228
+Go_http_package 20210920204148
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210925112254
+node-fetch/1.0_(_https://github.com/bitinn/node-fetch) 20210909092228
+Go_http_package 20210920204148
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 323 464
+From1 6 6
+From2 2 2
+From3 2 2
+From4 217 869
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com_hk 1 1
+www_bing_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://202.233.67.55:80 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 222 493822
+302 41 15
+400 5 1874
+429 1 3001
+301 788 133257
+404 509 6439841
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 305
+/wp-content/plugins/prdctfltr/includes/css/styles-rtl.css 4 -
+/wordpress/ 2 -
+/xx.php 2 http://kii-portfolio.com/xx.php
+/wp-includes/class-wp-bar.php 1 -
+/wp-check.php 1 -
+/web/ 1 -
+/wp-content/plugins/SocketIasrgasfontrol.php 1 -
+/cache/enarthrosis/th3_alpha.php 1 -
+/local.php 3 http://kii-portfolio.com/local.php
+/install/ 1 -
+/wp-checking.php 1 -
+/wp-content/plugins/wp-conns.php 1 -
+/wordpress/wp-content/plugins/fighter/shx.php 2 http://kii-portfolio.com/wordpress/wp-content/plugins/fighter/shx.php
+/webconfig.txt.php 1 -
+/bc 3 http://kii-portfolio.com/bc
+/maps.php 1 -
+/st.php 1 -
+/wp-content/uploads/rnnvhs.php 1 -
+/wp-content/uploads/2018/11/seo_script.php 1 -
+/doc.php 2 kii-portfolio.com
+/wp-content/plugins/joomjs/_inc/lrds.php 1 kii-portfolio.com
+/wp-content/themes/better-mag/footer.php 1 -
+/wp-content/plugins/indeed-wp-superbackup/extensions_plus/inc/files/admin.js 1 kii-portfolio.com
+/wp-includes/SimplePie/Parse/yun.php 1 -
+/BACKUP 1 www.google.com
+/test/ 2 -
+/wp-includes/class.wp.php 1 kii-portfolio.com
+/old 4 www.google.com
+/templates/protostar/error.php 2 -
+/style.php 1 -
+/wp-includes/class.wp-depen.php 1 -
+/meniacle/wp-blog-header.php 1 -
+/wp-content/themes/sketch/wp-console.php 1 -
+/main 3 http://kii-portfolio.com/main
+/downloader 1 -
+/old-site 3 http://kii-portfolio.com/old-site
+/wp-content/themes/photocrati-theme/admin/scripts/scripts-update.php 1 kii-portfolio.com
+/wp-content/plugins/wp-file-manager/lib/files/x.php 2 -
+/asfewfefs.php 1 -
+/system/logs/seo_script.php 1 -
+/wp-content/plugins/improved-variable-product-attributes/assets/css/style.min.css 4 -
+/wp-includes/Text/Diff/Engine/cache.php 1 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/configuration.php 1 -
+/wp-content/plugins/wp-pinterest-automatic/css/jquery.gcomplete.default-themes.css 2 kii-portfolio.com
+/codules.php 1 -
+/license.php 4 -
+/wp-content/plugins/all-in-one-seo/all-in-one-seo.php 1 -
+/wp-content/plugins/wp-pinterest-automatic/css/style.css 1 -
+/imdex.php 1 -
+/new 4 www.google.com
+/wordpress/media-admin.php 1 http://kii-portfolio.com/wordpress/media-admin.php
+/old-index.php 3 kii-portfolio.com
+/ads.txt 8 http://kii-portfolio.com/ads.txt
+/cli/update_cron.php 1 -
+/wp-content/plugins/wp-automatic/wp-pinterest-automatic 1 http://kii-portfolio.com/wp-content/plugins/wp-automatic/wp-pinterest-automatic
+/yt.php 1 -
+/bk 3 http://kii-portfolio.com/bk
+/v2/ 1 -
+/cache/copyhold/th3_ent1ty.php 1 -
+/includes/defines.php 1 -
+/components/com_banners/controller.php 1 -
+/wp-trackback.php 1 http://kii-portfolio.com/wp-trackback.php
+/wp-content/plugins/wp-automatic/css/jquery.gcomplete.default-themes.css 2 kii-portfolio.com
+/old-wp/ 1 -
+/wp-content/plugins/contact-form-7/wp-contact-form-7.php 1 -
+/rsau.php 1 -
+/wp-info.php 2 kii-portfolio.com
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 -
+/wp-content/themes/twentyfifteen/author-bio.php 1 -
+/wp-cokd.php 1 -
+/site 1 www.google.com
+/wp-mails.php 1 http://kii-portfolio.com/wp-mails.php
+/_.php 1 http://kii-portfolio.com/_.php
+/wp-content/plugins/sfn.php 1 -
+/backup 4 www.google.com
+/media-admin.php 4 http://kii-portfolio.com/media-admin.php
+/path4.php 1 -
+/backup.bak.php 1 -
+/wp-caches.php 1 -
+/2019 1 www.google.com
+/wp-sbb.php 1 -
+/trackback.php 1 -
+/wp-content/themes/twentysixteen/404.php 1 -
+/new/ 2 -
+/-/~/code87/5.php 2 http://kii-portfolio.com/-/~/code87/5.php
+/wp-conflg.php 1 http://kii-portfolio.com/wp-conflg.php
+/wp-content/plugins/func.php 1 -
+/.git/config 3 https://www.kii-portfolio.com/.git/config
+/2020 1 www.google.com
+/wordpress 4 www.google.com
+/wp-content/plugins/fAaWBH.php 1 -
+/wp-content/themes/porto/framework/spyropress-context.php 1 -
+/wp-content/plugins/upgrade-network.php 1 -
+/wp-content/plugins/prdctfltr/lib/css/prdctfltr.css 4 -
+/wordpress/wp-content/plugins/ubh/up.php 1 http://kii-portfolio.com/wordpress/wp-content/plugins/ubh/up.php
+/bk/ 1 -
+/wp-content/plugins/3dprint-lite/includes/js/3dprint-lite-backend.js 1 kii-portfolio.com
+/wp-content/plugins/aksimet/ahmed/k.php 2 http://kii-portfolio.com/wp-content/plugins/aksimet/ahmed/k.php
+/about.php 1 -
+/cache/unadjustably/th3_alpha.php 1 -
+//wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 1 -
+/post.php 1 -
+/wp2/ 1 -
+/wp-includes/class.wp-times.php 1 -
+/wordpress/autoload_classmap.php 2 http://kii-portfolio.com/wordpress/autoload_classmap.php
+/lieats.php 1 -
+/stindex.php 1 http://kii-portfolio.com/stindex.php
+/pols.php 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+/Tobey.php 1 -
+/assets/images/1.php 1 -
+/xmlrpc-activate.php 1 -
+/bacot.php 1 http://kii-portfolio.com/bacot.php
+/wordpress/wp-content/plugins/m4d/shx.php 2 http://kii-portfolio.com/wordpress/wp-content/plugins/m4d/shx.php
+/11.php 1 -
+/wordpress/files.php 1 http://kii-portfolio.com/wordpress/files.php
+/wp-content/plugins/host-webfonts-local/assets/js/omgf-admin.js 2 -
+/wp-content/plugins/Malions.php 2 -
+/wp-content/themes/twentythirteen/404.php 1 -
+/wordpress/wp-content/f.php 3 http://kii-portfolio.com/wordpress/wp-content/f.php
+/2018/ 1 -
+/wp1/ 1 -
+/fox-style.php 1 kii-portfolio.com
+/layouts/libraries/cms/html/bootstrap/addtab.php 1 -
+/wp-content/plugins/shopp/core/ui/styles/catalog.css 4 -
+/blog/ 2 -
+/system/storage/logs/seo_script.php 1 -
+/wp/ 2 -
+/v1/ 1 -
+/components/com_banners/models/banner.php 1 -
+/wp-content/themes/themes.php 1 -
+/mini.php 1 http://kii-portfolio.com/mini.php
+/demo/ 2 -
+/test 1 www.google.com
+/news.php 1 -
+/wp-menus.php 2 http://kii-portfolio.com/wp-menus.php
+/Old 1 www.google.com
+/configurationbak.php 1 -
+/backup/ 2 -
+/wp-content/plugins/xforwoocommerce/x-pack/improved-sale-badges/assets/css/styles.css 4 -
+/cache/s_noeval.php 1 -
+/wp-content/plugins/log.php 1 -
+/wp 4 www.google.com
+/s_ne.php 1 -
+/wp-includse.php 1 -
+/wp-links-opmls.php 1 http://kii-portfolio.com/wp-links-opmls.php
+/cache/subfusiform/th3_alpha.php 1 -
+/missok.php 1 -
+/b.php 1 -
+/cache/accesson.php 2 -
+/wp-content/plugins/gatewayapi/inc/security_two_factor.php 1 http://kii-portfolio.com/wp-content/plugins/gatewayapi/inc/security_two_factor.php
+/language/en-GB/en-GB.localise.php 2 -
+/wordpress/wp-content/plugins/fighter/wp-blog.php 1 http://kii-portfolio.com/wordpress/wp-content/plugins/fighter/wp-blog.php
+/ 50 -
+/XAttacker.php 1 -
+/wp-includes/pomo/w7388n.php 1 -
+/wordpress/beence.php 1 http://kii-portfolio.com/wordpress/beence.php
+/wp-content/yt.php 1 -
+/new-site/ 1 -
+/bak/ 1 -
+/Adoni.php 1 -
+/conf.ini.php 1 http://kii-portfolio.com/conf.ini.php
+/wp-content/plugins/wp-pinterest-automatic/process_form.php 1 http://kii-portfolio.com/wp-content/plugins/wp-pinterest-automatic/process_form.php
+/docindex.php 2 http://kii-portfolio.com/docindex.php
+/wp-content/plugins/shapepress-dsgvo/public/js/sp-dsgvo-public.js 2 -
+/storage/.env 4 -
+/wp-includes/Requests/Marvins.php 2 http://kii-portfolio.com/wp-includes/Requests/Marvins.php
+/wp-content/media.php 2 http://kii-portfolio.com/wp-content/media.php
+/blog 1 www.google.com
+/templates/protostar/index.php 1 -
+/wpcache.php 1 -
+/index2.php 1 -
+/wp-content/plugins/itr-popup/scripts/jscolor/itro-admin-scripts-RT1PIO.php 1 kii-portfolio.com
+/tmp/sfx.php 1 -
+/components/com_jce/editor/tiny_mce/plugins/imgmanager_ext/classes/image/imagick.php 1 -
+/wordpress/wp-content/plugins/Luxury/wp-load.php 1 http://kii-portfolio.com/wordpress/wp-content/plugins/Luxury/wp-load.php
+/Kii-Portfolio 1 www.google.com
+/log.php 1 -
+/popcorn.php 1 -
+/WP 1 www.google.com
+/qq.php 1 -
+/WordPress 1 www.google.com
+/2019/ 1 -
+/sockarp.php 1 -
+/Backup 1 www.google.com
+/wp-console.php 1 -
+/wp-content/plugins/wpml-translation-management/vendor/twig/twig/lib/macedes.php 1 http://kii-portfolio.com/wp-content/plugins/wpml-translation-management/vendor/twig/twig/lib/macedes.php
+/WORDPRESS 1 www.google.com
+/wp-includes/mvp.php 1 -
+/wp-loadsnew.php 1 -
+/wp-content/uploads/estate_templates/doc.php 1 http://kii-portfolio.com/wp-content/uploads/estate_templates/doc.php
+/google-site-verification-content-fpk8ez12pdbewljjo9xhbxlv7lhxa9nplpcode87.php 1 http://kii-portfolio.com/google-site-verification-content-fpk8ez12pdbewljjo9xhbxlv7lhxa9nplpcode87.php
+/LICENSE.php 1 -
+/login-wp 1 -
+/wordpress/wp-content/plugins/kamrul13/k.php 1 http://kii-portfolio.com/wordpress/wp-content/plugins/kamrul13/k.php
+/wp-content/plugins/super-forms/uploads/php/ 1 kii-portfolio.com
+/content-post.php 1 -
+/cache/blackhat.php 3 -
+/wp-content/plugins/background-image-cropper/seo_script.php 1 -
+/wp-content/plugins/ts-visual-composer-extend/assets/ts_vcsc_upload.php 1 kii-portfolio.com
+/wp-includes/theme-compat/umos.php 1 -
+/wp-includes/class.wp-date.php 1 -
+/wp-content/plugins/wp-automatic/process_form.php 2 http://kii-portfolio.com/wp-content/plugins/wp-automatic/process_form.php
+/get.php 2 -
+/autoload_classmap.php 2 http://kii-portfolio.com/autoload_classmap.php
+/hetlerx.php 1 -
+/tmp/ 1 -
+/wp-content/plugins/easyrotator-for-wordpress/a.php 1 -
+/wp-content/themes/autograph/inc/customizer.php 1 http://kii-portfolio.com/wp-content/themes/autograph/inc/customizer.php
+/wp-content/plugins/wp-file-manager/lib/files/hardfork.php 1 -
+/wp-content/plugins/woocommerce-jetpack/includes/js/wcj-bookings.js 2 -
+/wp-content/plugins/wc-dynamic-pricing-and-discounts/assets/js/checkout.js 4 -
+/wp-content/themes/distance-lite/languages/namespaces.php 1 http://kii-portfolio.com/wp-content/themes/distance-lite/languages/namespaces.php
+/uindex.php 1 http://kii-portfolio.com/uindex.php
+/ckfinder/core/connector/php/connector.php 1 -
+/gtde.php 1 -
+/small.php 1 http://kii-portfolio.com/small.php
+/gank.php.PhP 3 http://kii-portfolio.com/gank.php.PhP
+/wordpress/2index.php 3 http://kii-portfolio.com/wordpress/2index.php
+/js/ckfinder/core/connector/php/connector.php 1 -
+/Martina.php 1 -
+/unz.php 1 -
+/wp-content/uploads/2018/08/seo_script.php 1 -
+/wp-content/themes/porto/footer.php 1 -
+/wordpress/ups.php 2 http://kii-portfolio.com/wordpress/ups.php
+/1.php 1 http://kii-portfolio.com/1.php
+/xmlrpz.php 1 -
+/yt2.php 1 -
+/test.php 1 -
+/wp-content/uploads/index.php 1 -
+/wp-cache.php 1 -
+/wp-includes/wp-simple.php 1 -
+/temp/ 1 -
+/templates/protostar/html/pagination.php 1 -
+/wp-bb.php 1 -
+/dev/ 1 -
+/home/ 1 -
+/wordpress/wp-includes/customize/class-wp-customize-media-controI.php 3 http://kii-portfolio.com/wordpress/wp-includes/customize/class-wp-customize-media-controI.php
+/wp-content/plugins/Wp-LayerSlider/layerslider.php 1 -
+/accesson0.php 1 -
+/wp-content/plugins/instagram-feed/inc/admin/PluginSilentPicker.php 1 -
+/phqmv.php 1 -
+/cache/search.php 1 -
+/wp-includes/css/style.css.php 1 -
+/vendor/.env 4 -
+/wp-content/plugins/wp-uninstall.php 1 -
+/options.php 1 -
+/rnnvhs.php 1 -
+/wp-content/themes/twentyfifteen/index.php 1 -
+/oldsite 3 http://kii-portfolio.com/oldsite
+/1index.php 1 http://kii-portfolio.com/1index.php
+/images/sh3.php 1 -
+/wp-content/themes/alternate-lite/inc/network.php 1 http://kii-portfolio.com/wp-content/themes/alternate-lite/inc/network.php
+/templates/protostar/html/modules.php 2 -
+/wp-content/plugins/thumbnail.php 1 -
+/beck/cron.php 1 -
+/wp-content/plugins/wp-pinterest-automatic/js/main.js 4 -
+/old/ 2 -
+/main/ 2 -
+/wp-content/plugins/all-in-one-seo-pack/admin/display/display.php 1 -
+/wp-content/plugins/share-print-pdf-woocommerce/includes/css/style.min.css 4 -
+/cache.php 1 -
+/bps.php 1 -
+/wp-content/plugins/szalog.php 1 -
+/assets/images/blackhat.php 1 -
+/wordpress/wp-content/themes/twentytwentyone/404.php 1 http://kii-portfolio.com/wordpress/wp-content/themes/twentytwentyone/404.php
+/wp-content/themes/peekaboo/functions.php 1 -
+/sizing.php 1 -
+/wp-includes/SimplePie/Canonical.php 1 http://kii-portfolio.com/wp-includes/SimplePie/Canonical.php
+/home 4 www.google.com
+/wordpress/wp-blog-headers.php 1 http://kii-portfolio.com/wordpress/wp-blog-headers.php
+/wp-content/plugins/improved-sale-badges/assets/css/style.min.css 4 -
+/public/.env 4 -
+/register/ 2 http://kii-portfolio.com/register/
+/vuln.php 1 -
+/ludk.php 1 -
+/sqlibak.php 1 -
+/assets/images/search.php 1 -
+/humans.txt 5 http://kii-portfolio.com/humans.txt
+/kii-portfolio 1 www.google.com
+/home.bak.php 1 -
+/wp-content/uploads/2018/09/wp-load-5b7a23c0744615b7a23c0744af.php 1 -
+/wordpress/wp-content/plugins/ElingKuatSlamet/tes.php 1 http://kii-portfolio.com/wordpress/wp-content/plugins/ElingKuatSlamet/tes.php
+/wp/wp-apps.php 1 http://kii-portfolio.com/wp/wp-apps.php
+/site/ 2 -
+/.env 10 -
+/config.php 1 -
+/wp-blog.php 3 http://kii-portfolio.com/wp-blog.php
+/wp-content/common.php 1 -
+/2020/ 1 -
+/wp-blog-header.php 3 http://kii-portfolio.com/wp-blog-header.php
+/wp-content/themes/twentyseventeen/inc/color-patterns.php 1 -
+/wordpress/doc.php 1 http://kii-portfolio.com/wordpress/doc.php
+/cod.php 1 -
+/demo 1 www.google.com
+/wordpress/wp-content/plugins/523453244/mini.php 1 http://kii-portfolio.com/wordpress/wp-content/plugins/523453244/mini.php
+/cms/ 1 -
+/cache/generic/th3_alpha.php 1 -
+/wp-content/plugins/wp-automatic/js/main-front.js 4 -
+/2index.php 2 http://kii-portfolio.com/2index.php
+/wp-login 1 -
+/old-site/ 1 -
+/wp-includes/css/login_wall.php 1 -
+/wp-content/plugins/product-loops/assets/js/isotope.js 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 360
+219.124.240.102 100 624 90507822 20210915004542
+185.191.34.215 12 12 73588 20210919035704
+139.59.113.53 9 9 287512 20210907062950
+54.39.29.64 8 8 538969 20210909001257
+206.189.83.159 8 8 273720 20210927083942
+68.183.227.189 6 6 205273 20210926221431
+204.85.191.9 5 44 871259 20210901155404
+124.126.78.132 5 24 788083 20210903044434
+137.226.113.44 5 5 69233 20210930192934
+137.184.50.70 5 5 137905 20210929230604
+54.202.158.169 1 1 13862 20210919212949
+35.161.126.68 0 3 68846 
+84.17.52.77 2 2 135394 20210929060415
+54.203.73.198 1 2 17978 20210902102314
+35.161.159.56 1 1 13859 20210903213040
+54.203.119.239 1 1 13860 20210917213651
+5.39.84.56 1 1 0 20210929032838
+34.211.145.220 1 1 13860 20210925214815
+35.238.40.172 2 2 68430 20210920220651
+52.33.247.251 1 1 13860 20210913210410
+75.119.129.90 1 1 67368 20210904014307
+54.191.252.119 0 1 505 
+84.17.52.40 2 2 135792 20210929073116
+191.101.217.174 2 2 135164 20210923091541
+86.106.74.247 2 2 137534 20210918012537
+54.213.228.213 1 1 13860 20210907214935
+124.126.78.180 1 2 68442 20210926121924
+191.101.31.191 2 2 136115 20210928015132
+54.212.121.188 1 1 13862 20210910211103
+13.92.59.205 2 2 68430 20210929014007
+95.153.31.84 2 2 135728 20210902172841
+157.245.157.30 2 2 68430 20210918141758
+157.245.152.231 2 2 68413 20210901062757
+37.120.213.170 2 2 68413 20210907161246
+194.26.29.21 2 2 68413 20210908081951
+34.218.242.122 0 1 2158 
+149.56.150.123 1 1 67385 20210910183724
+92.204.174.84 2 2 136464 20210909051651
+34.221.198.156 0 1 4119 
+37.120.235.155 2 2 135392 20210913174227
+92.118.160.13 2 2 134753 20210912145518
+35.165.46.141 1 1 13858 20210909083354
+54.148.65.37 1 1 13858 20210908210922
+95.153.32.86 2 2 135813 20210923010451
+54.202.57.154 0 2 28054 
+188.126.89.115 2 2 136683 20210927013124
+34.136.239.120 1 1 13847 20210913164118
+52.32.5.144 0 1 4119 
+93.158.90.162 1 1 13863 20210919012227
+51.159.21.239 2 2 134796 20210922052650
+18.237.3.23 1 1 13863 20210918214349
+93.158.90.137 1 1 13859 20210903222848
+34.212.66.7 1 1 13858 20210908212521
+54.185.86.21 1 1 13860 20210913210405
+54.200.217.213 1 1 13862 20210915212100
+45.129.18.100 1 1 0 20210922053431
+54.245.183.196 0 1 791 
+35.161.128.196 0 1 4119 
+54.212.39.22 0 1 754 
+34.209.59.187 1 1 13859 20210923115335
+157.7.106.168 2 2 15570 20210930025835
+34.87.20.24 2 2 68430 20210928145905
+128.199.69.66 4 4 136860 20210928065036
+54.188.177.52 0 1 4119 
+54.188.55.155 0 1 4119 
+167.172.80.218 4 4 70520 20210929203823
+54.203.125.75 1 1 13862 20210928213225
+23.80.97.235 1 1 13342 20210924144947
+52.36.31.105 0 1 9420 
+35.85.29.62 0 1 4119 
+218.17.86.55 1 2 68442 20210926074359
+34.219.158.114 0 2 11214 
+38.122.112.147 1 1 13859 20210909193804
+112.213.106.113 1 1 0 20210930194116
+8.41.221.57 1 1 67368 20210909101926
+54.200.233.122 1 1 13860 20210907215121
+52.38.26.77 0 1 4119 
+149.56.12.204 3 3 41573 20210911150249
+42.83.147.35 1 1 13862 20210916225745
+23.88.96.41 1 1 13860 20210925201630
+34.210.72.13 0 1 4119 
+52.42.88.47 0 1 4578 
+34.214.123.169 0 1 4119 
+23.80.97.81 1 1 13343 20210908032206
+34.221.18.12 1 1 13860 20210917213652
+13.76.132.231 1 1 0 20210914184432
+35.163.245.75 1 1 13859 20210902215643
+35.167.123.220 0 1 19622 
+52.27.236.102 1 1 13859 20210923213113
+88.99.11.145 3 3 41570 20210923024008
+54.200.210.233 0 3 62931 
+54.186.50.118 1 1 13861 20210924213803
+54.186.189.122 0 1 4109 
+34.72.203.35 2 2 27697 20210913092743
+54.184.178.218 1 1 13861 20210926214931
+18.237.241.180 0 1 4119 
+54.149.238.9 1 1 13859 20210902214523
+54.200.133.160 1 1 13862 20210916214850
+34.221.242.251 1 1 13861 20210924212657
+92.118.160.1 1 1 67385 20210920204148
+62.210.88.24 3 3 41583 20210928225320
+34.215.62.134 0 1 575 
+191.101.217.106 2 2 137025 20210922162323
+54.214.80.41 0 5 62351 
+54.149.118.53 1 1 13860 20210925214617
+35.197.214.196 2 2 0 20210925115813
+100.21.218.158 1 2 17981 20210916081002
+52.43.79.97 1 1 13863 20210918215851
+172.241.83.89 1 1 13860 20210907020911
+54.186.157.26 1 1 13861 20210914212504
+34.219.104.81 1 1 13859 20210902215516
+92.204.175.91 2 2 136323 20210920055529
+84.17.60.84 2 2 135795 20210930035134
+35.160.221.191 1 1 13858 20210908210937
+93.158.90.152 1 1 264 20210919012222
+34.220.242.248 1 1 13861 20210922212533
+23.80.97.103 1 1 13341 20210913144209
+52.89.108.124 2 2 27718 20210903213315
+34.87.68.79 2 2 68430 20210914112407
+195.181.161.16 2 2 135628 20210916082744
+18.236.167.42 0 1 2158 
+34.214.124.152 1 1 13861 20210929212624
+103.157.207.95 1 1 13861 20210914235220
+35.163.40.31 1 1 13862 20210910213557
+54.201.191.91 1 1 13859 20210921213141
+54.202.253.221 1 1 13862 20210928213501
+34.208.246.225 1 1 13858 20210904212015
+34.217.127.49 1 1 13861 20210914214459
+18.237.203.139 1 1 13860 20210906213707
+35.161.167.8 0 1 4119 
+165.22.54.187 2 2 68430 20210924031723
+93.158.90.168 1 1 264 20210903222843
+35.167.166.50 0 1 4119 
+54.200.31.228 0 2 10829 
+35.85.143.222 1 1 13858 20210908210103
+195.246.120.154 2 2 136650 20210903074932
+34.213.105.113 1 1 13861 20210926213227
+13.67.114.154 2 2 68413 20210902145626
+191.101.31.110 2 2 135828 20210913023531
+34.219.248.7 1 1 13860 20210906213657
+35.197.143.57 2 2 68430 20210912085900
+35.161.159.255 0 1 8122 
+195.225.118.43 2 2 135522 20210903024204
+35.160.229.181 1 1 13862 20210915214057
+95.153.31.89 2 2 136041 20210902054657
+34.220.202.181 1 1 13861 20210924212610
+34.209.48.162 0 1 4119 
+45.129.18.107 1 1 0 20210907214323
+35.161.95.99 1 1 13859 20210903213237
+54.202.219.80 1 1 13859 20210905211514
+35.167.69.178 1 1 13861 20210922212009
+18.236.92.240 0 1 4119 
+34.216.221.236 0 1 505 
+79.137.34.146 1 1 0 20210907050507
+206.189.125.43 2 2 27722 20210930210429
+18.236.132.90 0 1 731 
+34.209.167.186 1 1 13846 20210922005307
+157.245.201.188 4 4 136860 20210930021650
+54.213.77.172 1 1 13859 20210921221940
+51.255.68.89 3 3 41564 20210921175608
+54.202.72.48 1 1 13859 20210905211027
+95.179.151.41 1 1 13860 20210926072142
+34.219.204.255 1 1 13861 20210930212138
+195.133.40.3 1 1 0 20210919155131
+151.106.10.137 2 2 135842 20210913074524
+34.219.60.54 1 1 13859 20210923214034
+185.189.114.122 2 2 135296 20210905100744
+52.10.224.235 0 1 9420 
+95.153.32.84 2 2 135822 20210915133114
+91.210.225.45 3 3 41567 20210901145655
+52.37.111.0 0 1 27676 
+35.167.196.233 0 1 4119 
+18.237.254.57 0 1 7693 
+54.190.207.99 0 2 26893 
+162.33.177.14 1 1 276 20210928051802
+35.85.42.160 0 1 7693 
+54.148.196.93 1 1 13861 20210924212605
+37.120.143.169 2 2 135286 20210911175939
+34.217.34.48 1 1 13860 20210906214040
+54.202.47.188 0 1 3953 
+138.199.56.248 2 2 135757 20210909101946
+146.70.8.6 2 2 135923 20210905034234
+50.3.89.160 1 2 114142 20210930172857
+93.158.91.224 1 1 264 20210925151853
+50.112.39.115 1 1 13861 20210929213411
+18.236.220.35 1 1 13860 20210907213348
+37.19.223.208 2 2 135260 20210924053746
+54.187.175.73 1 1 13861 20210927212034
+54.68.145.147 1 1 13862 20210910213558
+35.85.50.246 0 1 4119 
+178.128.116.37 2 2 68430 20210930045623
+34.123.169.231 4 4 136826 20210903024803
+35.167.227.149 0 1 4119 
+18.237.147.194 0 1 4119 
+18.236.179.105 0 1 575 
+34.222.135.114 0 3 53376 
+54.212.184.107 2 2 27726 20210912222704
+93.158.91.254 1 1 13863 20210913073534
+185.225.28.56 2 2 68430 20210917184824
+62.129.216.158 1 1 324 20210923181932
+34.221.211.195 1 1 13860 20210907215003
+49.156.42.188 2 2 11056 20210929182515
+191.101.217.45 2 2 136446 20210929113554
+54.191.184.77 2 2 27720 20210913210315
+34.71.21.196 1 1 0 20210920143646
+124.71.180.89 1 1 13858 20210904094243
+52.38.85.160 0 1 4119 
+51.158.97.23 1 1 0 20210909075644
+191.101.217.238 2 2 136685 20210917111646
+54.218.70.175 0 2 21643 
+92.118.160.61 2 2 134753 20210925112254
+52.24.192.135 1 1 13857 20210926013222
+40.121.160.179 4 4 136860 20210919010529
+52.32.186.189 0 1 4119 
+102.128.142.76 1 1 13861 20210930172633
+34.210.75.15 1 1 13862 20210920212626
+68.183.59.70 2 2 68430 20210911065212
+46.182.21.248 1 1 12796 20210928220523
+34.215.98.56 1 2 17982 20210918214424
+54.185.207.19 0 1 4119 
+34.87.182.199 2 2 68430 20210913214841
+54.190.46.50 1 1 13858 20210908210828
+18.237.71.215 0 1 1778 
+92.51.146.77 3 3 41567 20210925205814
+34.219.196.92 0 1 4119 
+54.202.6.99 0 1 4119 
+52.88.112.186 1 1 13858 20210908212559
+34.217.133.170 1 1 13860 20210906214251
+157.245.194.76 2 2 68413 20210906230626
+37.120.194.55 2 2 135133 20210928121800
+35.161.73.197 1 1 13859 20210905212001
+167.172.78.186 2 2 68430 20210916030629
+52.12.99.30 1 1 13859 20210921215115
+54.214.144.133 1 1 13859 20210903213039
+191.101.31.243 2 2 138011 20210928061546
+52.33.233.62 1 1 13858 20210908211652
+54.201.90.103 0 1 3953 
+34.219.8.2 1 1 13846 20210922005307
+54.187.6.23 1 1 13859 20210905210623
+34.222.1.86 0 1 4578 
+34.217.106.209 0 1 4109 
+45.81.225.160 2 2 11056 20210910200440
+185.189.150.58 2 2 136736 20210904011732
+34.221.180.253 0 1 9051 
+34.221.234.18 0 1 4119 
+54.185.171.15 0 1 4119 
+42.83.147.34 4 4 55442 20210929130921
+157.245.195.102 4 4 136843 20210925001254
+52.32.243.252 1 1 13859 20210923213125
+34.220.65.222 0 1 4119 
+35.163.24.97 1 1 13861 20210926214931
+18.236.207.51 1 1 13862 20210916214852
+213.163.126.29 1 1 38314 20210910200445
+34.212.217.55 1 1 13862 20210916214916
+34.219.47.214 1 1 13859 20210909211439
+54.71.150.19 0 1 4119 
+35.206.153.39 2 49 488590 20210921060438
+34.222.119.23 0 1 1169 
+3.135.192.158 2 49 488590 20210921060607
+54.213.241.52 0 1 2158 
+54.204.157.105 1 1 67385 20210927042556
+52.32.251.47 0 3 45528 
+34.219.42.128 1 1 13861 20210922212944
+52.27.21.27 0 1 4119 
+54.200.107.14 1 1 13860 20210901214113
+52.40.238.130 1 1 13862 20210928213223
+52.42.144.55 1 1 13859 20210902214557
+34.216.224.248 0 1 4109 
+93.158.90.142 1 1 13862 20210911001325
+35.85.36.5 1 1 13861 20210929212625
+93.158.91.183 1 1 13860 20210925151858
+54.190.12.74 1 1 13863 20210918214349
+46.101.0.105 2 2 27722 20210930035158
+167.71.219.128 4 4 136826 20210903130554
+92.118.160.37 1 1 67385 20210920124545
+5.45.77.102 1 1 13858 20210908191909
+34.212.24.234 0 1 22913 
+18.237.45.195 1 1 13859 20210905211156
+54.71.164.69 0 2 66069 
+34.214.221.95 0 1 754 
+52.36.207.155 0 1 4119 
+35.85.218.151 1 1 13861 20210930210441
+151.106.8.101 2 2 135335 20210930225451
+196.16.223.189 1 1 191420 20210930172645
+52.26.176.4 0 1 791 
+34.222.56.192 1 1 13859 20210921215524
+54.200.102.160 1 1 13860 20210901211430
+54.244.201.28 1 1 13861 20210926120302
+95.153.32.89 2 2 136125 20210903034848
+104.248.153.4 2 2 68413 20210906151125
+51.15.207.203 1 1 13857 20210909092228
+34.215.179.116 1 1 13861 20210927211707
+167.172.73.32 2 2 68430 20210910082403
+5.61.27.215 1 1 67332 20210923045820
+54.187.72.109 1 1 13860 20210925212107
+191.101.217.113 2 2 136707 20210921104859
+185.31.175.215 1 1 13845 20210908201004
+185.189.150.38 2 2 135632 20210907062205
+23.146.241.19 2 2 0 20210925103137
+52.35.9.173 1 1 13860 20210906213626
+128.90.138.166 1 1 13859 20210922025148
+84.17.52.20 2 2 135918 20210928125655
+54.218.203.60 0 1 19932 
+34.212.131.150 1 1 13858 20210908211102
+54.245.129.121 0 1 4119 
+18.237.248.241 0 1 4119 
+18.236.70.240 0 1 3302 
+188.166.188.218 2 2 68430 20210915045514
+52.33.133.145 1 1 13862 20210920213440
+18.236.243.151 1 1 13860 20210917215010
+93.158.91.252 1 1 264 20210913073528
+54.214.79.116 1 1 13861 20210930210459
+45.129.18.227 1 1 0 20210915061424
+217.107.219.81 1 1 13860 20210907060710
+52.25.179.20 1 1 13861 20210922212013
+190.11.224.189 1 1 0 20210922033317
+185.183.107.84 2 2 68430 20210915000429
+54.189.230.128 1 1 13862 20210910211312
+18.237.16.161 0 1 4119 
+42.83.147.36 1 1 13861 20210925082747
+35.163.146.19 1 1 13859 20210903213112
+54.244.217.34 1 1 13862 20210911214937
+54.186.171.115 0 2 6823 
+34.217.85.158 1 1 13862 20210919212610
+139.180.209.161 2 2 68430 20210925031900
+49.234.43.244 2 2 27724 20210919125134
+54.200.140.74 0 1 505 
+52.24.208.250 0 1 36065 
+2.57.122.84 2 4 35954 20210904112057
+34.211.86.95 1 1 13859 20210921221058
+133.106.39.150 0 1 0 
+188.165.174.34 2 2 27199 20210905064342
+54.188.119.132 1 1 13859 20210909212323
+54.185.255.216 0 1 4119 
+18.236.160.214 0 1 27676 
+142.54.171.66 1 1 13862 20210928123822
+34.209.232.170 1 1 13859 20210909211424
+167.88.60.253 2 2 68430 20210921032904
+167.71.215.166 4 4 136860 20210929024223
+52.88.85.76 1 1 13861 20210927213942
+54.203.79.94 0 1 1169 
+84.17.60.59 2 2 135928 20210927085550
+35.85.50.99 1 1 13859 20210902212614
+54.70.128.47 0 1 8122 
+35.165.193.114 0 3 3506 
+54.190.68.198 1 1 13860 20210907215551
+103.136.200.171 2 2 68413 20210909082341
+34.219.2.250 2 2 27724 20210916213747
+92.204.188.252 2 2 136406 20210917030953
+76.72.172.168 1 1 67332 20210923154244
+34.209.210.205 0 3 40317 
+198.12.64.38 2 2 68430 20210912181522
+23.94.74.103 2 2 68413 20210905091835
+195.246.120.146 2 2 135854 20210917074042
+54.189.152.13 1 1 13859 20210921222013
+52.27.60.179 1 1 13861 20210922211227
+93.158.90.169 1 1 264 20210911001320
+52.24.112.151 0 1 4578 
+18.236.255.34 1 1 13862 20210920213440
+34.221.244.151 1 1 13861 20210914212524
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20210901 12 52 1013078 5
+20210902 24 25 729702 17
+20210903 26 46 1570330 15
+20210904 14 26 737240 11
+20210905 25 38 1315617 16
+20210906 11 13 245632 9
+20210907 14 15 319044 12
+20210908 23 96 2248458 16
+20210909 17 42 831022 14
+20210910 11 12 244752 9
+20210911 79 349 85032701 8
+20210912 11 17 355724 7
+20210913 17 19 594332 12
+20210914 10 12 202835 8
+20210915 28 181 3403945 7
+20210916 13 15 323179 10
+20210917 11 13 527193 7
+20210918 10 12 338084 7
+20210919 16 17 306710 11
+20210920 10 12 389347 8
+20210921 17 113 1315273 11
+20210922 15 16 400657 13
+20210923 16 43 797624 12
+20210924 14 15 427316 10
+20210925 19 20 401786 14
+20210926 14 43 638759 12
+20210927 13 14 532300 9
+20210928 20 22 773702 14
+20210929 20 22 688705 13
+20210930 20 23 834374 15
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30s-2mn 3
+15mn-30mn 3
+0s-30s 325
+30mn-1h 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 34
+/ 367 13357151 302 241
+//wp-includes/wlwmanifest.xml 57 59565 3 56
+/wp-admin/admin-ajax.php 23 16724 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 10 858400 0 1
+/wp-login.php 8 32335 1 2
+/wp-admin/load-scripts.php 7 236282 0 0
+/wp-admin/load-styles.php 7 853200 0 0
+/wp-admin/plugins.php 7 190496 0 0
+/contact-list/ 5 73960 3 5
+/wp-admin/admin.php 5 119340 0 1
+/wp-content/themes/twentytwentyone/404.php 1 324 1 1
+/wp-content/ai1wm-backups/kii-portfolio.com-20210911-124940-ddgbzg.wpress 1 78706064 0 0
+/feed/ 3 4627 1 2
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot 1 191420 1 1
+/wp-sitemap-posts-post-1.xml 2 446 2 0
+/wp-includes/wlwmanifest.xml 1 1045 0 0
+/wp-admin/ 3 107004 0 0
+/comments/feed/ 1 2866 0 0
+/wp-load.php 3 0 3 3
+/wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/wp-sitemap.xml 5 1320 5 5
+/wp-admin/plugin-install.php 3 26773 0 0
+/wp-content/ 3 0 3 3
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 5 401500 0 0
+/2021/06/05/hello-world-2/ 3 59980 1 3
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 5 392300 0 0
+/wp-content/plugins/all-in-one-wp-migration/lib/view/assets/font/servmask.woff 1 3922 0 0
+/portfolio-list/ 3 35907 0 2
+/wp-cron.php 1 0 1 1
+/feed/rdf/ 1 2293 1 1
+/wp-admin/edit-comments.php 2 54276 0 0
+/index.php 3 28007 3 3
+/wp-content/plugins/index.php 1 0 1 1
+/wp-admin/update-core.php 1 0 0 0
+END_SIDER

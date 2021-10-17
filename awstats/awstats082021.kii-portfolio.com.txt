@@ -1,0 +1,775 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202108 will be lost/reset.
+# Last config file used to build this data file was /home/kii8r/kii-portfolio.com/awstats/awstats.kii-portfolio.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2025                
+POS_TIME 2705                
+POS_VISITOR 18263               
+POS_DAY 24113               
+POS_DOMAIN 3520                
+POS_LOGIN 4062                
+POS_ROBOT 4217                
+POS_WORMS 4771                
+POS_EMAILSENDER 4902                
+POS_EMAILRECEIVER 5045                
+POS_SESSION 24565               
+POS_SIDER 24762               
+POS_FILETYPES 5180                
+POS_DOWNLOADS 5429                
+POS_OS 5477                
+POS_BROWSER 5770                
+POS_SCREENSIZE 7012                
+POS_UNKNOWNREFERER 7086                
+POS_UNKNOWNREFERERBROWSER 7445                
+POS_ORIGIN 7729                
+POS_SEREFERRALS 7867                
+POS_PAGEREFS 8033                
+POS_SEARCHWORDS 8244                
+POS_KEYWORDS 8396                
+POS_MISC 2368                
+POS_ERRORS 8455                
+POS_CLUSTER 3918                
+POS_SIDER_404 8595                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210901001416 92 23007 11030188135616
+FirstTime 20210816202703
+LastTime 20210831212139
+LastUpdate 20210901020002 31 0 30 0 0
+TotalVisits 178                 
+TotalUnique 145                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 149                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 48 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 47 192 3820100 50 51 70250
+1 18 19 191697 163 298 120642
+2 2 2 67315 174 322 425074
+3 6 6 82472 52 59 278714
+4 10 10 231274 60 65 215131
+5 2 2 76343 35 45 139908
+6 11 11 488385 177 312 305233
+7 12 12 611965 39 56 214505
+8 18 18 192668 149 151 586053
+9 10 10 217353 31 31 76605
+10 15 19 1256007 37 48 194587
+11 11 11 177849 91 189 1940033
+12 8 8 336248 97 97 420377
+13 10 10 177986 58 72 326641
+14 11 52 883976 32 42 105416
+15 12 12 163824 62 85 702599
+16 10 11 152219 47 105 658558
+17 22 89 2405531 49 56 273020
+18 10 16 683523 43 46 231172
+19 5 6 225071 32 50 292482
+20 7 7 217275 34 40 174392
+21 77 84 1160778 136 166 106228
+22 14 24 358547 67 73 199011
+23 27 39 1609510 63 86 458799
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 23
+jp 167 428 8975249
+us 91 98 1524433
+ca 15 15 1011290
+fr 15 15 661751
+ch 12 12 815328
+sg 12 12 410478
+ru 8 8 41585
+se 8 8 300281
+gb 8 8 96974
+lt 5 5 336839
+bd 3 3 82271
+cn 3 4 96141
+es 3 29 397971
+in 1 1 13859
+eu 4 4 271745
+at 4 4 272073
+ee 2 2 136706
+bo 1 1 13859
+hu 2 2 68388
+cz 2 2 135973
+nl 2 2 27720
+as 4 4 55455
+de 3 3 41547
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+wordpress 513 471192 20210831212138 0
+Googlebot/ 172 1465850 20210831140613 10
+bingpreview 100 1429872 20210829115147 0
+AhrefsBot/ 27 167826 20210831110901 15
+bingbot/ 24 174133 20210831050447 11
+link 10 109507 20210830232440 1
+unknown 7 879 20210828031022 7
+custo 4 269471 20210827191257 0
+no_user_agent 2 134630 20210826125320 0
+Apache\-HttpClient/ 1 8989 20210823124612 0
+bot[\s_+:,\.\;\/\\-] 1 13858 20210823113537 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 75 593216 0 0
+png 12 67083 0 0
+woff2 17 1398920 0 0
+php 142 1140942 0 0
+html 203 6710184 0 0
+js 185 3092682 0 0
+jpg 14 2715488 0 0
+xml 13 12023 0 0
+gif 5 33236 0 0
+svg 4 24142 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+winxp 2 2
+ios_iphone 1 0
+androidlollipop 1 1
+win8 1 1
+macosx9 2 2
+macosx13 4 4
+androidoreo 2 1
+macosx15 426 166
+macosx14 4 4
+linuxubuntu 2 2
+linux 92 59
+win7 31 31
+android10 2 2
+win10 85 85
+win8.1 3 3
+Unknown 10 10
+macosx8 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 56
+firefox66.0 2 2
+firefox57.0 1 1
+chrome52.0.2743.116 1 1
+chrome83.0.4103.24 2 2
+chrome88.0.4240.193 13 13
+chrome84.0.4147.125 8 8
+opera55.0.2994.44 2 2
+chrome81.0.4044.129 1 1
+chrome92.0.4515.131 355 156
+chrome71.0.3578.98 27 1
+chrome83.0.4103.97 58 51
+iphone 1 0
+firefox62.0 2 2
+chrome42.0.2311.90 1 1
+edge16 2 2
+firefox73.0 1 1
+chrome26.0.1410.65 2 2
+chrome86.0.4472.114 1 1
+chrome83.0.4103.61 5 5
+opera54.0.2952.51 6 6
+chrome91.0.4472.114 5 4
+chrome74.0.3729.169 4 4
+chrome66.0.3359.181 20 20
+opera69.0.3686.7 2 2
+chrome50.0.2661.75 3 3
+chrome49.0.2623.112 2 2
+Unknown 6 6
+chrome72.0.3626.109 3 3
+chrome90.0.4430.85 1 1
+firefox84.0 2 2
+opera54.0.2952.71 4 4
+firefox89.0 1 1
+opera53.0.2907.99 4 4
+chrome78.0.3904.62 2 2
+chrome68.0.3440.106 2 2
+chrome41.0.2226.0 1 1
+chrome78.0.3904.108 8 8
+firefox58.0 3 3
+chrome80.0.3987.149 2 2
+firefox67.0 2 2
+chrome83.0.4093.3 2 2
+chrome79.0.3945.88 1 1
+chrome46.0.2490.80 1 1
+firefox68.0 3 3
+chrome67.0.3396.99 4 4
+mozilla 5 4
+netscape5.0 2 2
+chrome89.0.4389.82 1 1
+chrome68.0.3440.84 2 2
+chrome83.0.4086.0 2 2
+chrome83.0.4103.34 2 2
+chrome92.0.4515.159 69 9
+chrome35.0.1916.47 2 2
+chrome84.0.4147.105 1 1
+chrome73.0.3683.90 1 1
+chrome67.0.3396.62 4 4
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210830203424
+My_User_Agent_1.0 20210820084032
+Go_http_package 20210828233808
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20210816234450
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210830203424
+My_User_Agent_1.0 20210820084032
+Go_http_package 20210828233808
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 138 141
+From1 4 4
+From2 1 1
+From3 4 4
+From4 228 520
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com_hk 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://202.233.67.55:80 3 3
+http://fbkwriter.com/about-me/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 257 400072
+302 5 0
+400 4 34
+404 291 3602132
+301 1079 259071
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 229
+/ 19 -
+/wordpress/ 1 -
+/wp-content/plugins/all-in-one-seo/aioseop_class.php 1 -
+/wordpress/wp-content/plugins/kamrul13/wp-load.php 1 http://kii-portfolio.com/wordpress/wp-content/plugins/kamrul13/wp-load.php
+/cache/nonanonymity/th3_alpha.php 1 -
+/admin.php 1 anonymousfox.co
+/wp-content/plugins/theplus_elementor_addon/assets/css/admin/theplus-ele-admin.css 2 -
+/cindex.php 1 anonymousfox.co
+/blackhat.php 1 -
+/registration 2 -
+/bak/ 1 -
+/0.php 2 http://kii-portfolio.com/0.php
+/new-site/ 1 -
+/wp-content/plugins/background-image-cropper/new_license.php.suspected 1 http://kii-portfolio.com/wp-content/plugins/background-image-cropper/new_license.php.suspected
+/web/ 1 -
+/wp-content/themes/peekaboo/404.php 1 -
+/wordpress/wp-content/plugins/xnxx/xd.php 1 http://kii-portfolio.com/wordpress/wp-content/plugins/xnxx/xd.php
+/wp-includes/css/modules.php 1 -
+/wp-content/plugins/BirdsRio.php 1 -
+/install/ 1 -
+/assets/images/wp-console.php 1 -
+/tmp.php 1 -
+/wp-content/plugins/easyrotator-for-wordpress/b.php 1 -
+/wordpress/wp-content/plugins/fighter/shx.php 1 http://kii-portfolio.com/wordpress/wp-content/plugins/fighter/shx.php
+/haders.php 1 anonymousfox.co
+/bc 1 http://kii-portfolio.com/bc
+/assets/images/s_eval.php 2 -
+/wp-includes/lfx.php 1 anonymousfox.co
+/wp-includes/wpconfig.bak.php 1 anonymousfox.co
+/wp-content/plugins/ubh/up.php 1 anonymousfox.co
+/wp-includes/fonts/css.php 1 anonymousfox.co
+/wp-content/uploads/2020/02/ 2 http://kii-portfolio.com//wp-content/uploads/2020/02/index.php
+/wp-crons.php 2 http://kii-portfolio.com/wp-crons.php
+/Iontrol.php 1 -
+/wp-content/mu-plugins/db-safe-mode.php 1 anonymousfox.co
+/boom.php 1 anonymousfox.co
+/register 2 -
+/wp-includes/class.wp-tmps.php 1 -
+/wp-includes/output.php 1 -
+/test/ 1 -
+/wp-includes/seo_script.php 1 -
+/2019/ 1 -
+/old 1 http://kii-portfolio.com/old
+/backups.php 1 -
+/wp-includes/theme-compat/comay.php 1 -
+/wp-booking.php 1 anonymousfox.co
+/wp-content/wp-old-index.php 1 anonymousfox.co
+/style.php 3 anonymousfox.co
+/wp-content/uploads/estate_templates/wpbricks/doc.php 1 http://kii-portfolio.com/wp-content/uploads/estate_templates/wpbricks/doc.php
+/wp-content/plugins/kaswara/front/assets/js/script.js 2 -
+/wordpress/wp-content/plugins/masterx/upx.php 1 http://kii-portfolio.com/wordpress/wp-content/plugins/masterx/upx.php
+/avtogear86_ru_cron.php 1 -
+/main 1 http://kii-portfolio.com/main
+/wp-content/themes/twentyfifteen/404.php 1 -
+/wp-content/plugins/ioptimization/IOptimize.php 1 anonymousfox.co
+/upload.php 1 anonymousfox.co
+/wp-content/plugins/woocommerce-jetpack/includes/js/wcj-cart-customization.js 1 http://kii-portfolio.com/wp-content/plugins/woocommerce-jetpack/includes/js/wcj-cart-customization.js
+/imprima.php 1 -
+/wp-content/indes.php 1 -
+/wp-content/plugins/easyrotator-for-wordpress/bb.php 1 -
+/ghfhvvaw.php 1 -
+/wp-includes/small.php 1 anonymousfox.co
+/wp-includes/class.wp-date.php 1 -
+/wp-includes/css/newgolden.php 1 -
+/wp-ajax-hook.php 1 -
+/wp-content/plugins/backup_index.php 1 anonymousfox.co
+/wp-includes/Text/Diff/Engine/cache.php 1 -
+/moduless.php 1 anonymousfox.co
+/wp-includes/css/wp-config.php 1 anonymousfox.co
+/wp-includes/Text/index.php 1 -
+/assets/images/s_noeval.php 1 -
+/autoload_classmap.php 1 http://kii-portfolio.com/autoload_classmap.php
+/tmp/ 1 -
+/wp-content/plugins/woocommerce-jetpack/includes/js/wcj-bookings.js 2 -
+/wp-content/plugins/booster-plus-for-woocommerce/includes/js/wcj-cart-customization.js 1 http://kii-portfolio.com/wp-content/plugins/booster-plus-for-woocommerce/includes/js/wcj-cart-customization.js
+/wp-content/themes/distance-lite/languages/namespaces.php 1 http://kii-portfolio.com/wp-content/themes/distance-lite/languages/namespaces.php
+/gank.php.PhP 1 http://kii-portfolio.com/gank.php.PhP
+/google8bf79cafb8676cc7.html 2 -
+/wp-content/uploads/bb.php 1 -
+/new 1 http://kii-portfolio.com/new
+/wp-includes/js/general.php 1 -
+/error-logs.php 1 -
+/wp-content/plugins/woo-advanced-shipment-tracking/assets/js/front.js 2 -
+/ads.txt 3 http://kii-portfolio.com/ads.txt
+/old-index.php 4 kii-portfolio.com
+/wp-content/themes/twentyfifteen/archive.php 1 -
+/cache/medianity/th3_alpha.php 1 -
+/wp-includes/pomo/hdweb.php 1 -
+/v2/ 1 -
+/bk 1 http://kii-portfolio.com/bk
+/up.php 1 anonymousfox.co
+/test.php 1 anonymousfox.co
+/cli/finder_indexer.php 1 -
+/my-account 2 -
+/wp-content/plugins/BirdsRios.php 1 -
+/wp-content/plugins/simple-301-redirects/readme.txt 2 -
+/larva.php 1 anonymousfox.co
+/wp-includes/LICENSE.php 1 -
+/old-wp/ 1 -
+/wp-info.php 2 -
+/temp/ 1 -
+/wp-includes/css/hi.php 1 -
+/shx.php 1 http://kii-portfolio.com/shx.php
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 1 anonymousfox.co
+/wp-content/plugins/background-image-cropper/blackhat.php 1 -
+/wp-content/themes/dulcet/footer1.php 1 http://kii-portfolio.com/wp-content/themes/dulcet/footer1.php
+/dev/ 1 -
+/wp.php 1 -
+/home/ 1 -
+/wp-config_bak.php 1 -
+/backup 1 http://kii-portfolio.com/backup
+/wp-content/plugins/wpdiscuz/themes/default/style-rtl.css 1 anonymousfox.co
+/layouts/joomla/toolbar/help.php 2 -
+/wp-content/themes/t98-sade/seo_script.php 2 -
+/cache/s_e.php 1 -
+/layouts/libraries/cms/html/bootstrap/starttabsetscript.php 1 -
+/cli/deletefiles.php 1 -
+/wp-mosx.php 1 -
+/axmlprc.php 1 -
+/wp-content/plugins/myshe.php 1 -
+/wp-content/plugins/t_file_wp/t_file_wp.php 1 anonymousfox.co
+/wp-aa.php 1 -
+/wp-sbb.php 1 -
+/wp-load-5b7a23c0744615b7a23c0744af.php 1 -
+/options.php 1 -
+/new/ 1 -
+/wp-content/plugins/caches.php 1 -
+/55index.php 1 http://kii-portfolio.com/55index.php
+/mobile_detect.php 1 -
+/cache/accesson1.php 1 -
+/wordpress 1 http://kii-portfolio.com/wordpress
+/alfindex.php 1 anonymousfox.co
+/wp-configs.php 2 http://kii-portfolio.com/wp-configs.php
+/wp-content/db_cache.php 1 anonymousfox.co
+/old/ 1 -
+/wp-content/uploads/2018/09/seo_script.php 1 -
+/wp-content/plugins/booster-plus/includes/js/wcj-cart-customization.js 1 http://kii-portfolio.com/wp-content/plugins/booster-plus/includes/js/wcj-cart-customization.js
+/wpindex.php 1 anonymousfox.co
+/wp-content/config.bak.php 1 anonymousfox.co
+/wp-includes/ID3/comay.php 1 -
+/main/ 1 -
+/wp-pas.php 1 -
+/wp-content/themes/config.bak.php 1 anonymousfox.co
+/bk/ 1 -
+/wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php 1 anonymousfox.co
+/s_eval.php 1 -
+/.well-known/security.txt 1 -
+/legion.php 1 anonymousfox.co
+/stats.php 1 -
+/comments.php 1 -
+/wp-includes/images/hon2our.php 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/xo.php 1 -
+/includes/framework.php 1 -
+/cache.php 2 -
+/wp-includes/js/tinymce/plugins/wpview/diff.php 1 -
+/wp-content/plugins/fancy-product-designer/readme.txt 2 -
+/wp2/ 1 -
+/wp-content_plugins_akismet_widget.php 1 -
+/wp-includes/SimplePie/Canonical.php 2 http://kii-portfolio.com/wp-includes/SimplePie/Canonical.php
+/random.php 1 -
+/home 1 http://kii-portfolio.com/home
+/wp-content/plugins/easyrotator-for-wordpress/cache.php 1 -
+/seo_script.php 1 -
+/wp-includes/images/media/rss.php 1 -
+/wp-main.php 1 -
+/wp-includes/css/css.php 1 anonymousfox.co
+/upgrade.php 1 -
+/wp-content/uploads/2018/10/seo_script.php 1 -
+/register/ 7 -
+/th3_err0r.php 1 anonymousfox.co
+/wp-content/themes/hello.php 1 -
+/xmlrpc-blog.php 1 -
+/assets/images/pas.php 1 -
+/xmlrp.php 1 anonymousfox.co
+/ytt.php 1 -
+/yjh.php 1 -
+/wp-content/plugins/SocketIontrol.php 1 -
+/wp-content/plugins/wp-cache.php 1 -
+/libraries/cms.php 1 -
+/humans.txt 2 http://kii-portfolio.com/humans.txt
+/wp-content/plugins/letme/weblinks.php 1 http://kii-portfolio.com/wp-content/plugins/letme/weblinks.php
+/wp-content/themes/greensblog/template-parts/simple.php 2 http://kii-portfolio.com/wp-content/themes/greensblog/template-parts/simple.php
+/wp-profi1e.php 1 -
+/wp-content/themes/sketch/content-post.php 1 -
+/wp-1ogin_bak.php 1 anonymousfox.co
+/2018/ 1 -
+/media-admin.php/404.php 1 http://kii-portfolio.com/media-admin.php/404.php
+/wp1/ 1 -
+/wp-content/plugins/background-image-cropper/doc.php 1 http://kii-portfolio.com/wp-content/plugins/background-image-cropper/doc.php
+/blog/ 1 -
+/site/ 1 -
+/wp_wrong_datlib.php 1 -
+/wp-content/plugins/wpconfig.bak.php 1 anonymousfox.co
+/.env 2 -
+/Keith.php 1 -
+/wp-content/plugins/background-image-cropper/image/ico/accesson.php 1 -
+/config.php 1 anonymousfox.co
+/wp/ 1 -
+/v1/ 1 -
+/readme.php 3 http://kii-portfolio.com/readme.php
+/cli/garbagecron.php 1 -
+/wp-content/uploads/2019/ 2 http://kii-portfolio.com//wp-content/uploads/2019/index.php
+/wp-content/wp-1ogin_bak.php 1 anonymousfox.co
+/search.php 1 -
+/2020/ 1 -
+/wp-content/langar.php 1 anonymousfox.co
+/mini.php 1 http://kii-portfolio.com/mini.php
+/wp_honor.php 1 -
+/demo/ 1 -
+/wp-content/themes/twentyseventeen/footer.php 1 -
+/wp-content/plugins/theplus_elementor_addon/assets/js/admin/plus-editor.js 2 -
+/wp-plugins.php 2 http://kii-portfolio.com/wp-plugins.php
+/google6d9e4b95c080ff6b.html 2 -
+/backup/ 1 -
+/assets/images/accesson0.php 1 -
+/wp 1 http://kii-portfolio.com/wp
+/images/xxx.php 1 -
+/signup 2 -
+/wp-content/themes/twentyseventeen/404.php 1 -
+/cms/ 1 -
+/alfa.php 1 anonymousfox.co
+/config.bak.php 1 anonymousfox.co
+/sites/all/stats.php 1 -
+/wp-content/plugins/config.bak.php 1 anonymousfox.co
+/wp-content/plugins/gatewayapi/inc/security_two_factor.php 2 http://kii-portfolio.com/wp-content/plugins/gatewayapi/inc/security_two_factor.php
+/old-site/ 1 -
+/wp-includes/config.bak.php 1 anonymousfox.co
+/connectors/resource/s_eval.php 1 -
+/cache/medianity/ssi_examples/cart_action.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 149
+219.124.240.102 142 382 7215545 20210831123725
+103.5.142.233 23 44 1756305 20210818180510
+54.39.29.64 15 15 1011290 20210831044013
+185.191.34.215 7 7 27723 20210830162624
+178.62.108.218 7 7 96974 20210819235215
+84.17.52.49 4 4 271050 20210826153030
+92.204.174.89 4 4 271745 20210820012758
+34.218.210.191 2 2 27716 20210831211419
+196.196.149.226 2 2 120009 20210818122507
+103.136.202.122 2 2 68413 20210826191458
+34.211.155.21 1 1 13859 20210816212034
+35.164.171.229 1 1 13858 20210823211949
+131.0.197.153 1 1 13859 20210820084032
+54.202.223.172 1 1 13860 20210818212654
+94.23.250.140 1 1 0 20210817131601
+54.185.133.47 1 1 13859 20210819211848
+34.222.39.223 1 1 13856 20210826214229
+64.233.173.149 1 1 13859 20210816234449
+92.118.160.61 1 1 67368 20210830203424
+64.233.173.151 1 1 13859 20210816234449
+34.213.90.66 1 1 13858 20210824213407
+34.209.62.173 1 1 13860 20210818212613
+34.220.68.102 1 1 13856 20210828213125
+54.188.25.116 1 1 13862 20210825212506
+50.112.157.162 1 1 13859 20210821212943
+18.236.232.32 1 1 13859 20210816212409
+93.158.91.244 1 1 13861 20210827142802
+54.202.135.38 1 1 37889 20210820174307
+54.189.0.7 1 1 13856 20210826215425
+54.149.199.204 1 1 13859 20210819213256
+195.181.161.13 2 2 135973 20210825140723
+52.12.125.135 1 1 13857 20210829212503
+93.158.90.162 1 1 264 20210816202703
+34.213.41.230 1 1 13858 20210831211608
+95.153.31.88 2 2 136706 20210824143412
+118.179.95.113 1 1 13858 20210824040100
+35.164.228.214 1 1 13859 20210817210942
+54.203.0.143 1 1 67368 20210820175544
+185.32.222.13 2 2 135883 20210818112910
+159.65.242.215 1 1 13859 20210820062421
+34.219.87.156 1 2 17978 20210821213103
+34.216.213.249 1 1 13858 20210831210417
+139.59.113.53 2 2 68413 20210831045853
+157.230.230.140 1 1 13862 20210825155403
+34.214.193.138 1 1 13862 20210825213041
+54.188.173.37 1 1 13858 20210824215231
+54.218.104.235 1 1 13859 20210830211649
+54.202.9.52 1 1 13861 20210827211822
+34.222.119.83 1 1 13861 20210827211556
+54.213.206.116 1 1 13859 20210816212113
+44.242.158.175 1 1 13856 20210826180919
+52.89.24.34 1 1 13859 20210817211252
+167.71.217.71 2 2 68413 20210826140710
+50.112.48.86 1 1 13861 20210827211704
+157.245.61.178 2 2 68413 20210829070641
+5.188.62.140 1 1 13862 20210825184721
+34.209.217.27 0 1 4119 
+54.202.144.10 1 1 13857 20210829212431
+20.109.16.224 1 1 13861 20210827195356
+34.210.110.142 1 1 13858 20210820212259
+45.129.18.37 1 1 0 20210819002321
+191.101.217.68 2 2 136481 20210823074715
+34.219.30.10 1 1 13856 20210826213422
+34.223.249.253 1 1 13858 20210823211949
+35.164.86.197 1 1 13857 20210829214125
+156.146.56.115 2 2 68413 20210831063943
+34.222.240.138 1 1 13856 20210828213155
+62.210.88.24 2 2 27715 20210829175325
+191.101.31.161 2 2 135154 20210822060624
+92.118.160.37 2 2 134736 20210828233808
+5.45.77.102 1 1 13858 20210824004503
+18.237.114.182 1 1 13856 20210828213125
+198.204.234.252 2 2 81227 20210822225316
+54.245.10.12 1 1 13858 20210823212018
+151.106.12.253 2 2 135784 20210829201720
+34.212.224.212 1 1 13860 20210818212458
+54.68.138.166 1 1 13859 20210830212451
+54.188.78.84 1 1 13859 20210819211714
+84.17.60.102 2 2 135370 20210825073148
+137.226.113.44 2 2 27689 20210826132130
+92.118.160.9 1 1 67367 20210824050704
+34.221.134.193 1 1 13858 20210823211135
+18.237.48.52 1 1 13859 20210821213031
+54.218.80.217 1 1 13856 20210828213135
+23.236.48.117 1 1 0 20210822224315
+54.202.19.91 0 1 4119 
+178.128.59.34 2 2 68413 20210823070720
+54.191.59.38 1 1 13862 20210825213933
+35.166.169.150 1 1 13859 20210819212017
+50.116.51.4 1 1 0 20210830203626
+45.129.18.231 1 1 0 20210828214144
+54.200.132.109 1 2 17975 20210826215435
+37.0.8.128 1 1 13862 20210829080224
+54.149.107.119 1 1 13859 20210816214402
+34.218.45.156 1 1 13861 20210827211049
+147.135.137.126 1 1 8976 20210818053832
+35.207.207.242 1 1 13859 20210822110918
+34.71.210.147 2 2 27693 20210818115534
+34.214.180.33 1 1 13858 20210820213404
+54.186.137.246 1 1 13859 20210821213003
+133.130.103.36 1 1 3095 20210822162510
+54.244.19.29 1 1 13858 20210831212139
+124.126.78.142 1 2 68425 20210830185037
+212.71.239.187 1 1 0 20210831200249
+35.81.171.112 1 1 13856 20210827001652
+93.158.91.243 1 1 264 20210827142757
+89.187.168.165 2 2 135129 20210819195121
+34.208.196.96 1 1 13859 20210830211735
+92.118.160.41 1 1 67368 20210817093146
+52.149.220.232 2 2 68413 20210817072525
+34.213.255.14 1 1 13859 20210821214114
+54.149.226.214 1 1 13858 20210824213422
+188.126.79.9 2 2 136237 20210818132515
+54.218.10.98 1 1 13859 20210830211649
+54.202.117.37 1 1 13859 20210819212228
+81.69.191.124 2 2 27716 20210824003302
+54.202.140.220 1 1 13859 20210817210940
+195.246.120.179 2 2 135796 20210819104152
+167.71.200.191 2 2 68413 20210828213753
+64.233.173.150 2 2 27737 20210816234450
+54.202.247.26 1 1 13856 20210828213138
+54.186.97.254 1 1 13858 20210820213335
+64.124.51.154 2 2 27717 20210823093801
+185.104.187.115 2 2 68388 20210824175537
+54.184.43.174 1 1 13859 20210817212611
+35.184.13.183 1 1 13859 20210823081330
+83.57.131.188 1 27 277962 20210819003604
+34.215.179.23 1 1 13859 20210822211041
+54.202.65.147 1 1 13859 20210822210705
+34.221.78.210 1 1 13859 20210822211701
+93.158.90.144 1 1 13859 20210816202708
+185.32.222.5 2 2 136273 20210823145218
+84.17.42.36 2 2 68413 20210817064935
+84.17.52.44 2 2 135684 20210817093640
+149.202.180.22 1 1 13858 20210823163854
+52.36.232.4 1 1 13858 20210831211821
+107.174.5.17 1 1 67315 20210818122444
+162.55.209.77 1 1 13858 20210825030051
+54.200.96.224 0 1 4119 
+54.218.249.184 1 1 13858 20210831211430
+34.222.237.72 0 1 4119 
+37.19.223.224 2 2 136944 20210823101045
+195.225.118.44 2 2 136438 20210826085217
+54.212.247.44 1 2 17979 20210818212715
+52.11.213.164 1 1 13859 20210822210159
+35.165.105.233 1 1 13858 20210820212927
+34.219.178.239 1 1 37889 20210820175248
+34.146.142.71 1 1 304 20210821061630
+147.182.236.176 2 2 68413 20210820035412
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20210816 15 27 1379304 10
+20210817 15 16 549392 11
+20210818 157 299 5710034 18
+20210819 25 52 733499 13
+20210820 17 22 895291 14
+20210821 7 8 141086 7
+20210822 11 11 288771 9
+20210823 18 20 727988 13
+20210824 13 54 761953 10
+20210825 13 13 557180 10
+20210826 19 20 766035 13
+20210827 8 8 97286 8
+20210828 9 9 205061 8
+20210829 15 61 1034922 10
+20210830 11 24 493535 10
+20210831 22 26 1446579 14
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 3
+5mn-15mn 4
+30s-2mn 1
+15mn-30mn 2
+0s-30s 166
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/ 195 6468638 155 142
+/wp-admin/admin-ajax.php 110 27593 8 8
+//wp-includes/wlwmanifest.xml 11 11495 0 11
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 8 686720 0 2
+/wp-admin/load-styles.php 5 607443 0 0
+/wp-admin/plugins.php 5 151957 0 0
+/wp-admin/load-scripts.php 4 172282 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 4 313840 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 4 321200 0 0
+/wp-admin/about.php 3 56622 0 0
+/author/kii8r/ 1 8976 1 1
+/contact-list/ 2 120009 1 1
+/wp-content/index.php 1 0 1 1
+/wp-admin/admin.php 1 42332 0 0
+/portfolio-list/ 2 75778 2 2
+/wp-admin/ 3 36783 0 0
+/wp-includes/ms-load.php 1 0 1 1
+/index.php 1 13864 1 1
+/xmlrpc.php 1 304 1 1
+/wp-load.php 3 0 3 3
+/wp-sitemap.xml 2 528 2 2
+/wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.woff2 1 77160 0 0
+/wp-content/themes/index.php 1 0 1 0
+/wp-admin/plugin-install.php 2 42610 0 0
+/wp-login.php 3 9161 1 2
+/wp-admin/options-general.php 1 16774 0 0
+END_SIDER
